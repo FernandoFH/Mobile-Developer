@@ -12,3 +12,23 @@ https://www.coursera.org/programs/plan-bronce-2026-36k-75k11/learn/advanced-reac
 ### Apple iOS
 - [Roadmap](https://roadmap.sh/ios)
 
+___ 
+• Clean Architecture real 
+• Separación Data / Domain / UI
+• Manejo de errores correcto
+• Principios SOLID 
+
+• Testing:
+  • Unit tests
+  • Test doubles (mock/fake)
+  • Testing coroutines
+  • Testing ViewModels
+
+• Modularización.
+• Performance básica.
+• CI/CD.
+• Code reviews.
+• Debugging avanzado.
+• Refactorización.
+• Escalabilidad de features.
+• Trade-offs técnicos.
